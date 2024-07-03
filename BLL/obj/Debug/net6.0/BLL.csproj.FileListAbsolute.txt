@@ -1,0 +1,68 @@
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.dll
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.pdb
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\DAL.dll
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\Model.dll
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\DAL.pdb
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\Model.pdb
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.dll
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.pdb
+D:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\ref\BLL.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.deps.json
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\DAL.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\Model.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\DAL.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\Model.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\refint\BLL.dll
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.pdb
+F:\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\ref\BLL.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.pdb
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\DAL.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\Model.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\DAL.pdb
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\Model.pdb
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.pdb
+E:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\ref\BLL.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.deps.json
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\BLL.pdb
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\DAL.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\Model.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\DAL.pdb
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\bin\Debug\net6.0\Model.pdb
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\refint\BLL.dll
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\BLL.pdb
+F:\Học tập\Kỳ 2 năm 3\Lập trình web API\BTL\BTL\BLL\obj\Debug\net6.0\ref\BLL.dll
